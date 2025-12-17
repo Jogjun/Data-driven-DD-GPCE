@@ -75,7 +75,6 @@ Place the downloaded input data in the same folder as the notebook (or update pa
 - scipy
 - scikit-learn
 - matplotlib
-- joblib
 
 ---
 
