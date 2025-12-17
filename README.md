@@ -38,16 +38,6 @@ Place the downloaded input data in the same folder as the notebook (or update pa
 - Measure-consistent orthonormal polynomial basis construction
 - DD-GPCE surrogate modeling
 - Accurate estimation of output mean and variance
-
----
-
-## Repository Structure
-
-├── Data-driven DD-GPCE.ipynb # Main notebook (implementation & examples)
-├── input_data/ # (optional) download location for input datasets
-└── README.md # Project description
-
-
 ---
 
 ## Methodology
